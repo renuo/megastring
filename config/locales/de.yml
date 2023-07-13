@@ -1,0 +1,16 @@
+de:
+  hello_world: "Hallo Welt!"
+  interpolated: "%{name} hat %{count} Telefone"
+  my:
+    example:
+      title: "Dies ist ein Titel"
+      text: |
+        Das wäre dann der sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr
+        sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr
+        sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr
+        sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr sehr
+        sehr sehr sehr sehr lange Text."
+  fixed_language: "Deutsch"
+  sane_html: "Dies ist ein <strong>starker</strong> Text."
+  button: "Klick mich!"
+  option: "Option 1 (de)"

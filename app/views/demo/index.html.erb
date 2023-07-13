@@ -1,0 +1,21 @@
+<h1><%= t('hello_world') %></h1>
+
+<p><%= t('mega_missing') %></p>
+
+<h2><%= t('my.example.title') %></h2>
+<p><%= t('my.example.text') %></p>
+
+<ul>
+  <li><%= t('fixed_language', locale: 'de') %></li>
+  <li><%= t('fixed_language', locale: 'en') %></li>
+</ul>
+
+<p><%= t('interpolated', name: 'Josua', count: 2) %></p>
+<p><%= t('sane_html') %></p>
+<p><button><%= t('button') %></button></p>
+
+<label>
+  <select>
+    <option><%= t('option') %></option>
+  </select>
+</label>
